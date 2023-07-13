@@ -20,7 +20,7 @@ export async function getStaticProps({ locale }) {
 	return {
 		props: {
 			currentPage: {
-				title: "云极客工具",
+				title: "满天星河工具箱",
 				// title: trans.use("homePage.meta.title"),
 				description: trans.use("homePage.meta.description"),
 				path: "/",
